@@ -347,16 +347,6 @@ All testing must be performed against machines you own or have explicit written 
 | VirtualBox | <https://virtualbox.org/wiki/Downloads> |
 | Kali Linux | <https://kali.org/get-kali> |
 
----
-
-## 👤 Author
-
-**Amir Bhattarai** — Cybersecurity Professional B082
-
-- GitHub: [@AnonCreed](https://github.com/AnonCreed)
-- LinkedIn: _add your profile link here_
-
----
 
 ## 📌 Project Information
 
